@@ -22,7 +22,7 @@ p { color: white; }
 
 
 #about_div {
-	position: relative; top: 100%; left: 12%;
+	position: static; top: 100%; left: 12%;
 	width: 75px; 
 	height: 25px; 
 	background-color:none;
