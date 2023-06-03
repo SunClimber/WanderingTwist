@@ -22,7 +22,7 @@ p { color: white; }
 
 
 #about_div {
-	position: static; top: 100%; left: 12%;
+	position: absolute; top: 19%; left: 37%;
 	width: 75px; 
 	height: 25px; 
 	background-color:none;
@@ -34,7 +34,7 @@ p { color: white; }
 #contact_div
 
 {
-  	position: relative; top: 0%; left: 78%;
+  	position: absolute; top: 19%; left: 60%;
 	width: 75px; 
 	height: 25px; 
 	background-color:none;
